@@ -1,4 +1,4 @@
-# vue3-calendar-heatmap
+# vue3-calendar-heatmap-no-tippy
 
 ![](https://user-images.githubusercontent.com/684302/142281760-eaeccf78-5cc8-450d-8407-6208aafb63a2.png)
 
@@ -8,12 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/-Typescript-informational?style=flat-square)](https://www.typescriptlang.org/)
 [![vue2](https://img.shields.io/badge/vue-3.x-brightgreen.svg?style=flat-square)](https://vuejs.org/)
 
-A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph. With vertical mode, tooltip powered
-by [Tippy.js](https://github.com/atomiks/tippyjs).
-
-## Documentation
-
-[https://razorness.github.io/vue3-calendar-heatmap](https://razorness.github.io/vue3-calendar-heatmap)
+A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph. With vertical mode.
 
 ## Examples
 
